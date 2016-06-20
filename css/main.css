@@ -1,0 +1,181 @@
+html,body{
+    background:url("bg.png") scroll;
+    width:100%;
+    height:100%;
+    overflow: hidden;
+}
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    /*padding-top:20px;*/
+}
+.panel{
+    width:50%;
+    float:left;
+}
+.title-box{
+    width:30%;
+    float:left;
+    text-align: center;
+    color:#fff;
+    border-radius:9px;
+    overflow: hidden;
+    margin-left:2.5%;
+}
+.title-box h2{
+    height:46px;
+    line-height:46px;
+    vertical-align: middle;
+    font-weight: normal;
+}
+.title-box h1{
+    height:75px;
+    line-height:75px;
+    vertical-align: middle;
+}
+.bg-orange-h{
+    background:#de7369;
+}
+.bg-orange{
+    background:#d4615e;
+}
+.fc-orange{
+    color:#d4615e;
+}
+.bg-purple-h{
+    background:#9803ff;
+}
+.fc-purple{
+    color:#9803ff;
+}
+.bg-purple{
+    background:#ab20ff;
+}
+.bg-green-h{
+    background:#22c171;
+}
+.fc-green{
+    color:#22c171;
+}
+.bg-green{
+    background:#24d27b;
+}
+.panel-item{
+    overflow: hidden;
+}
+.chart-title{
+    padding-left:30px;
+    color:#fff;
+    font-weight: normal;
+    font-size:22px;
+}
+
+/*#count-ip{
+    height:20%;
+}
+#chartMap{
+    height:40%;
+}
+.chart-title{
+}
+#chartIps{
+    height:40%;
+}*/
+
+
+.chart-box{
+    width:100%;
+    clear: both;
+    margin-top:20px;
+    height:350px;
+}
+
+.user-title{
+    height:60px;
+    line-height:60px;
+    overflow: hidden;
+    background:#218891;
+    color:#bcd4d7;
+    font-size:24px;
+    padding-left:20px;
+    font-weight: normal;
+    margin: 0 20px;
+}
+.data-title{
+    height:48px;
+    line-height:48px;
+    vertical-align: middle;
+}
+.data-title .label{
+    font-size:22px;
+    font-weight: normal;
+    height:170px;
+}
+.data-title .value{
+    font-size:26px;
+    font-weight: bold;
+}
+.data-notetitle{
+    height:40px;
+    line-height:40px;
+}
+.progress{
+    display: inline-block;
+    width:400px;
+    background:#123a7f;
+    border-radius:5px;
+    height:20px;
+    line-height:20px;
+    vertical-align: middle;
+}
+.progress-txt{
+    display: inline-block;
+    height:20px;
+    line-height:20px;
+    color:#fff;
+    background:#218891;
+    border-radius:5px;
+    text-align: center;
+}
+.user-data-box{
+    padding-left:20px;
+    padding-top:10px;
+}
+
+
+
+
+.chart{
+    width:900px;
+    height:540px;
+    margin: 0 auto;
+}
+.col{
+    float:left;
+    margin-left: 20px;
+}
+h1{
+    font-size:40px;
+}
+h2{
+    font-size:20px;
+}
+.dark{
+    color:#fff;
+}
+.name{
+    color:#37f5f7;
+    padding:0 10px;
+}
+.text{
+    line-height:28px;
+    font-size:18px;
+    height:247px;
+    overflow: hidden;
+}
+
+.title-style1{
+
+}
